@@ -20,6 +20,7 @@ Welcome to **Masala Mafia**, a beautifully crafted, responsive, and interactive 
 - 📦 **Custom 404 Page** (if added)
 - 📃 **Fully Commented Codebase**
 
+---
 
 ## 🚀 Tech Stack
 
