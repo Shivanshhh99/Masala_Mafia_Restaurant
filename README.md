@@ -7,6 +7,9 @@ Welcome to **Masala Mafia**, a beautifully crafted, responsive, and interactive 
 👉 [Click here to view the live project](https://shivansh-rattan01.bytexl.live/)
 
 
+
+---
+
 ## ✨ Features
 
 - 🎯 **Hero Section** with animated title, background, and overlay
@@ -21,6 +24,7 @@ Welcome to **Masala Mafia**, a beautifully crafted, responsive, and interactive 
 - 📃 **Fully Commented Codebase**
 
 ---
+
 
 ## 🚀 Tech Stack
 
