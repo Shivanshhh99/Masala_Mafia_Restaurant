@@ -20,7 +20,6 @@ Welcome to **Masala Mafia**, a beautifully crafted, responsive, and interactive 
 - 🎉 **Preloader Animation** on page load
 - 📱 **Responsive Design** (Mobile, Tablet, Desktop)
 - 📩 **Reservation/Contact Form**
-- 📦 **Custom 404 Page** (if added)
 - 📃 **Fully Commented Codebase**
 
 ---
