@@ -20,20 +20,6 @@ Welcome to **Masala Mafia**, a beautifully crafted, responsive, and interactive 
 - 📦 **Custom 404 Page** (if added)
 - 📃 **Fully Commented Codebase**
 
----
-
-## 📁 Folder Structure
-
-Masala-Mafia/
-│
-├── index.html # Main HTML page
-├── style.css # All styles and responsive design
-├── script.js # JavaScript for interactivity
-├── /images # All image assets
-├── /videos # Video for modal popup
-├── favicon.ico # Favicon
-└── README.md # Project documentation
----
 
 ## 🚀 Tech Stack
 
