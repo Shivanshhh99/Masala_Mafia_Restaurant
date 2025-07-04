@@ -24,6 +24,10 @@ Welcome to **Masala Mafia**, a beautifully crafted, responsive, and interactive 
 
 ---
 
+## Screenshots
+
+---
+
 
 ## 🚀 Tech Stack
 
