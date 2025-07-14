@@ -854,7 +854,7 @@ function openVideoModal() {
       }
     });
     
-    // Close on Escape key
+    
     document.addEventListener('keydown', function(e) {
       if (e.key === 'Escape' && document.body.classList.contains('video-modal-active')) {
         closeVideoModal();
